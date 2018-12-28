@@ -1,6 +1,7 @@
 # HospitalPrices
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+
 Follow this quick-start guide to get the basic downloads: https://angular.io/guide/quickstart
 
 ## Development server
